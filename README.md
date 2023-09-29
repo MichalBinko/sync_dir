@@ -13,4 +13,7 @@ console output;
 Folder paths, synchronization interval and log file path should be provided
 using the command line arguments;
 
-# 
+# How to use
+
+you can start from bash with command "python sync_dir.py a 2"
+first argument "a" is name of source directory and number "2" are seconds how often data will by copy to directory "replica". 
