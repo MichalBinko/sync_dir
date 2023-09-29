@@ -1,5 +1,3 @@
-# sync_dir
-
 # Task
 
 Please implement a program that synchronizes two folders: source and replica. The
